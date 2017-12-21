@@ -2,7 +2,7 @@
 The Gridworld environment is a single agent domain featuring a discrete state and action space.
 
 ### ENVIRONMENT
-'''
+```
 --------------------------
 |     |     |      |     |
 |     |     |      | +1  |
@@ -16,7 +16,7 @@ The Gridworld environment is a single agent domain featuring a discrete state an
 |  S  |     |      |     |
 |     |     |      |     |
 --------------------------
-'''
+```
 This is the simple gridworld environment from the Russel and Norvig text
 
 ### OBSERVATION:
