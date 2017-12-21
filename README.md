@@ -42,6 +42,6 @@ This is the simple gridworld environment from the Russel and Norvig text
 
 # Installation
 ```
-cd gym_gridworld
+cd gym-gridworld
 pip install -e .
 ```
